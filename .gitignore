@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Arduino IDE
+*.ino.eep
+*.elf
+*.hex
+build/
+
+# Local configuration / secrets
+config.py
+secrets.h
